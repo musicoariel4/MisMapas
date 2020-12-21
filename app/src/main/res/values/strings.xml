@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">MisMapas</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="boton">SEND</string>
+    <string name="intro_text">Lugares De Ariel</string>
+    <string name="tren">estacion del metro</string>
+    <string name="title_activity_maps2">Map</string>
+    <string name="title_activity_maps3">Map</string>
+    <string name="title_activity_maps4">Map</string>
+</resources>
